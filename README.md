@@ -1,3 +1,1 @@
-# odin-recipes
-Recipe book for all my favorite foods stored on a website.
-I will have demonstrated knowledge of how to use HTML by using [self reflection]
+Used HTML in order to create a website with three recipes that contain different ordered and unordered lists, images, and different headers along with a back button.
